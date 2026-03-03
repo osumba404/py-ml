@@ -1,0 +1,7 @@
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Large data files (keep on disk, do not commit)
+Feature Extraction/train.csv
+Numerical Dataset Pre-processing/diabetes.csv
+imbalanced datasets/credit_data.csv
